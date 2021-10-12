@@ -1,1 +1,1 @@
-const myVar=2
+const myVar=98
